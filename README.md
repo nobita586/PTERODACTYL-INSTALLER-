@@ -141,6 +141,3 @@ Special thanks to:
 1. Replace placeholder image links (https://via.placeholder.com/...) with actual images or diagrams.
 2. Replace `your-email@example.com` and `yourdomain.com` with your email and domain.
 3. Test all commands on your server to ensure they work as intended.
-```
-
-You can now copy this `README.md` into your GitHub project. Let me know if you'd like further refinements or additional sections!
